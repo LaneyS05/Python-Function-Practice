@@ -16,3 +16,5 @@ print(greeting[:])
 
 name = 'Jenafer'
 print(name[1: -1])
+
+# 37:08
