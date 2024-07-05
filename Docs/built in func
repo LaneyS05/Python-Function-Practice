@@ -68,3 +68,5 @@ type() - Returns the type of an object.
 vars() - Returns the __dict__ attribute of the given object.
 zip() - Returns an iterator of tuples, where the i-th tuple contains the i-th element from each of the argument sequences.
 import() - This function is invoked by the import statement.
+
+1:41
