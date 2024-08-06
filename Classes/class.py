@@ -2,7 +2,7 @@ class Point:
     def move(self):
         print("move")
 
-    def draw(self):
+    def draw(self): 
         print("draw")
 
 
